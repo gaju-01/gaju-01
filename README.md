@@ -4,7 +4,7 @@ Hi 👋 My name is Gajanan C Hegde
 Software Engineer
 -----------------
 
-I am currently working as a Software Developer at Ellucian. I have rich experience developing distributed systems using cutting-edge technologies and frameworks like Microservices, Docker, Groovy, Java, Spring, Spring Boot, CI/CD, and Design Patterns. In addition, I have excellent problem-solving abilities which combined with my development skills come in handy while developing, and fixing code. I also have front-end experience. Working at Ellucian I developed SPAs using React and utilized serverless architecture through DataConnect. I am a passionate developer who likes to architect, design, and develop simple, flexible, scalable, and resilient systems that exceed user expectations and solve real-world business problems.
+I am currently working as a Software Developer at Ellucian. I have rich experience developing distributed systems using cutting-edge technologies and frameworks like Microservices, Docker, Groovy, Java, Spring, Spring Boot, CI/CD, and Design Patterns. In addition, I have excellent problem-solving abilities which combined with my development skills come in handy while developing, and fixing code. I also have front-end experience. Working at Ellucian I developed SPAs using React and utilized serverless architecture through DataConnect. I am a passionate developer who likes to design, and develop scalable, and resilient systems that exceed user expectations and solve real-world business problems.
 
 * 🌍  I'm based in Bengaluru, India
 * ✉️  You can contact me at [gajananchegde@gmail.com](mailto:gajananchegde@gmail.com)
